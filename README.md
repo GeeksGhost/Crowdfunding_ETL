@@ -11,11 +11,8 @@ The objective of this project is to practice building an ETL pipeline that can b
 
 ### Python Libaries Required for this Project: 
 
-pandas
-numpy
-sqlalchemy
-psycopg2
-To install the dependencies, run:
+pandas, numpy, sqlalchemy, psycopg2
+
 
 ## Project Data Sources
 The project uses the following Excel files as data sources:

@@ -9,6 +9,14 @@ The objective of this project is to practice building an ETL pipeline that can b
 - Load the transformed data into a PostgreSQL database.
 - Verify the loaded data by running SQL queries.
 
+### Python Libaries Required for this Project: 
+
+pandas
+numpy
+sqlalchemy
+psycopg2
+To install the dependencies, run:
+
 ## Project Data Sources
 The project uses the following Excel files as data sources:
 
@@ -44,18 +52,17 @@ backers_count, country, currency, launch_date, end_date, category_id (Foreign ke
 To run the ETL pipeline, follow these steps:
 
 - Clone the repository to your local machine.
-- Install the required dependencies.
+- Launch jupyter notebook file
+- Import the required dependencies.
+- Extract data
+- Create Category and Subcategory dataframes
+- Edit main script to create code that generates desired outcomes
 - Run the Jupyter notebook to execute the ETL process.
 - Verify the loaded data by running the provided SQL queries.
-- Dependencies
+- Create ERD diagram via QuickDBD to create schemas
+- Export csv files
+- Create dataframes
 
-Python Libaries Required for this Project: 
-
-pandas
-numpy
-sqlalchemy
-psycopg2
-To install the dependencies, run:
 
 Final git push changes to main GitHub branch
 

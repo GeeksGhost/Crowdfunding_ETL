@@ -63,10 +63,10 @@ To run the ETL pipeline, follow these steps:
 
 Final git push changes to main GitHub branch
 
--Final code can for ETL_Mini_Project can be found Crowdfunding_ETL/blob/main/ETL_Mini_Project_MGil_ESkowronski.ipynb
+-Final code can be found: ETL_Mini_Project can be found Crowdfunding_ETL/blob/main/ETL_Mini_Project_MGil_ESkowronski.ipynb
 
--QuickDBD ERD can be found Crowdfunding_ETL/blob/main/Crowdfunding_ERD.png
+-QuickDBD ERD can be found: Crowdfunding_ETL/blob/main/Crowdfunding_ERD.png
 
--Combined SQL schema and db queries made in PGAdmin can be found Crowdfunding_ETL/blob/main/crowdfunding_db_schema.sql
+-Combined SQL schema and db queries made in PGAdmin can be found: Crowdfunding_ETL/blob/main/crowdfunding_db_schema.sql
 
 ### Credits: Class Notes, Peer Discussions, Study Materials, Stack Overflow, XPert Learning Assistant 

@@ -1,7 +1,7 @@
-### Crowdfunding ETL Project
+# Crowdfunding ETL Project
 This project involves building an ETL (Extract, Transform, Load) pipeline using Python, Pandas, and PostgreSQL. The pipeline extracts data from Excel files, transforms it to fit the desired schema, and loads it into a PostgreSQL database. The final goal is to create a database that contains detailed information about crowdfunding campaigns, including categories, subcategories, and contact information.
 
-# Project Overview
+## Project Overview
 The objective of this project is to practice building an ETL pipeline that can be used to manage and analyze crowdfunding data. The project includes the following tasks:
 
 - Extract data from provided Excel files.
@@ -9,7 +9,7 @@ The objective of this project is to practice building an ETL pipeline that can b
 - Load the transformed data into a PostgreSQL database.
 - Verify the loaded data by running SQL queries.
 
-# Project Data Sources
+## Project Data Sources
 The project uses the following Excel files as data sources:
 
 crowdfunding.xlsx: Contains detailed information about crowdfunding campaigns.
@@ -40,7 +40,7 @@ The database schema includes the following tables:
 Category, subcategory, contact_id, cf_id (primary key), contact_id (Foreign key), company_name, description, goal, pledged, 
 backers_count, country, currency, launch_date, end_date, category_id (Foreign key), subcategory_id (Foreign key) :
 
-# Instuctions:
+## Instuctions:
 To run the ETL pipeline, follow these steps:
 
 - Clone the repository to your local machine.
@@ -59,4 +59,4 @@ To install the dependencies, run:
 
 Final git push changes to main GitHub branch
 
-# Credits: Class Notes, Peer Discussions, Study Materials, Stack Overflow, XPert Learning Assistant 
+### Credits: Class Notes, Peer Discussions, Study Materials, Stack Overflow, XPert Learning Assistant 
